@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "doctorName": "Dr. John Smith",
+      "image": "https://example.com/doctors/dr_john_smith.jpg",
+      "degree": "MD",
+      "specialty": "Cardiology"
+    },
+    {
+      "id": 2,
+      "doctorName": "Dr. Sarah Johnson",
+      "image": "https://example.com/doctors/dr_sarah_johnson.jpg",
+      "degree": "DO",
+      "specialty": "Orthopedics"
+    },
+    {
+      "id": 3,
+      "doctorName": "Dr. Emily Williams",
+      "image": "https://example.com/doctors/dr_emily_williams.jpg",
+      "degree": "MD",
+      "specialty": "Pediatrics"
+    },
+    {
+      "id": 4,
+      "doctorName": "Dr. Michael Davis",
+      "image": "https://example.com/doctors/dr_michael_davis.jpg",
+      "degree": "DO",
+      "specialty": "Dermatology"
+    },
+    {
+      "id": 5,
+      "doctorName": "Dr. Jessica Lee",
+      "image": "https://example.com/doctors/dr_jessica_lee.jpg",
+      "degree": "MD",
+      "specialty": "Ophthalmology"
+    }
+  ]
+  
